@@ -4,7 +4,7 @@ Please see [Yann LeCun's page](http://yann.lecun.com/exdb/mnist/) for the origin
 
 ## Installation ##
 
-torch-rocks install https://raw.github.com/andresy/mnist/master/rocks/mnist-scm-1.rockspec
+luarocks install https://raw.github.com/andresy/mnist/master/rocks/mnist-scm-1.rockspec
 
 ## Usage ##
 
